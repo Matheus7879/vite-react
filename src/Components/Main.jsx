@@ -1,10 +1,10 @@
 export function Main(){
     return <div className="bg-zinc-900">
         <div className="flex pl-6 justify-between">
-        <div className="flex flex-col pt-22">
+        <div className="flex flex-col pt-25">
         <span className="text-3xl text-white" style={{ fontFamily: 'Undertale'}}>Deepgrounded</span>
         
-        <span className="text-2xl text-gray-200 font-['Rajdhani'] mt-4">É um jogo RPG inspirado em jogos indies como Undertale, <br></br>
+        <span className="text-xl text-gray-300 font-['Rajdhani'] mt-4">É um jogo RPG inspirado em jogos indies como Undertale, <br></br>
         desenvolvido como projeto de TCC por um grupo de quatro estudantes.<br></br>
         Esse projeto une programação, modelagem 3D, design criativo e desenvolvimento Web
         </span>    
@@ -39,4 +39,8 @@ Exemplo:
 React
 Tailwind
 Godot
-Blender*/
+Blender
+
+<video /thumb.png
+*/
+
