@@ -18,7 +18,7 @@ export function DownloadPage(){
                 <a
                     href="/downloads/DeepGrounded-Beta.zip"
                     download
-                    className="inline-block mt-10 px-8 py-4 rounded-xl bg-blue-600 hover:bg-blue-700 transition text-xl font-semibold"
+                    className="inline-block mt-10 px-8 py-4 rounded-xl bg-gray-700 hover:bg-gray-500 transition text-xl font-semibold"
                 >
                     Download Beta
                 </a>
